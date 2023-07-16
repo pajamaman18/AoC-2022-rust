@@ -1,6 +1,5 @@
-use std::char::{from_u32};
+use std::char::from_u32;
 use std::fs;
-
 
 fn main() {
     let file_path = "/home/pjman/personal-projects/AoC-2022-rust/d3/input.txt";
